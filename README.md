@@ -1,11 +1,14 @@
-# Introduction to Cultural Analytics & Python
-Designed by [Melanie Walsh](https://melaniewalsh.org/) // Powered by [Jupyter Book](https://jupyterbook.org/)
+# CSC 10800 E: Foundations of Data Science 
+## Fall 2024, City College of New York, CUNY
+## 
 
-This repository hosts the code for the online textbook, *Introduction to Cultural Analytics & Python*, which offers an introduction to the programming language Python that is specifically designed for people interested in the humanities and social sciences.
+Powered by [Jupyter Book](https://jupyterbook.org/)
+
+This repository hosts the code for the online textbook, *Foundations of Data Science at CCNY*, which offers an introduction to the programming language Python that is specifically designed for people interested in the humanities and social sciences.
 
 The book demonstrates how Python can be used to study cultural materials such as song lyrics, short stories, newspaper articles, tweets, Reddit posts, and film screenplays. It also introduces computational methods such as web scraping, APIs, topic modeling, Named Entity Recognition (NER), network analysis, and mapping.
 
-These materials were originally created to support "Introduction to Cultural Analytics: Data, Computation & Culture," an undergraduate course taught at Cornell University and the University of Washington.
+As a forked branch of [Intro-Cultural-Analytics](https://github.com/melaniewalsh/Intro-Cultural-Analytics) by [Melanie Walsh](https://melaniewalsh.org/), these materials were originally created to support "Introduction to Cultural Analytics: Data, Computation & Culture," an undergraduate course taught at Cornell University and the University of Washington.
 
 # Jupyter Book Overview and Repository Structure
 
